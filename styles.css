@@ -1,0 +1,20 @@
+#gameBoard {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+}
+#btn {
+  border-radius: 25%;
+  border: 1px solid black;
+  padding: 15px;
+  margin: 5px;
+  font-size: 1.2em;
+  background-color: #cfcb59;
+}
+header {
+  border: 5px groove black;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: #d1e1eb;
+}
